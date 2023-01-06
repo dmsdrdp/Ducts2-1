@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\Ducts2-1.dll</Assembly>
+		<AddInId>D626F02E-20A6-4E21-A234-A7A7E8745EAC</AddInId>
+		<FullClassName>Ducts2_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество воздуховодов</Text>
+	</AddIn>
+</RevitAddIns>
